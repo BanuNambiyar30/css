@@ -1,0 +1,46 @@
+body{
+    background-color:grey;
+}
+.div{
+    background-color: black;
+    color: white;
+    height: 350px;
+    width:500px;
+    margin:0 auto;
+    margin-top: 180px;
+    padding: 25px;
+}
+.ba{
+    height:25px;
+    width: 400px;
+    border-color: skyblue;
+    background-color:black;
+   
+    outline: none;
+}
+.ba1{
+    text-align: center;
+}
+.ba2{
+  
+    height:40px;
+    width: 80px;
+    border-color: skyblue;
+    background-color: black;
+    color: skyblue;
+    margin-left:360px ;
+}
+    
+hr{
+    width: 440px;
+    border-color: skyblue;
+    margin-top: 20px;
+}
+.icon{
+    background-image:linear-gradient(skyblue,rgb(25, 132, 204)) ;
+    font-size: 20px;
+}
+img{
+    margin-left: 200px;
+    border-radius: 50%;
+}

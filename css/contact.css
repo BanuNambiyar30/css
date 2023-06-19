@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(199, 197, 197);
+}
+
+.hr{
+    width: 100px;
+    color: red;
+    }
+
+.head{
+        text-align: center;
+        
+    }
+    .box{
+        background-color: white;
+        height: 220px;
+        width: 600px;
+        margin-right:350px;
+        margin-left: 350px;
+    }
+
+       .h{
+         margin-left: 100px;
+         padding: 0%;
+         }
+         .h1{
+color: brown;
+
+         }
+         .hoo{
+            margin-right: 200px;
+         }
+          .hoo1{
+            margin-left: 200px;
+            color: brown;
+         } 
+         .hoo1{
+            margin-left: 200px;
+         }
+         .hoo2{
+            margin-left: 100px;
+         }
+       .hoo3{
+        color: brown;
+       }

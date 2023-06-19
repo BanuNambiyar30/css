@@ -1,0 +1,24 @@
+
+body{
+    padding: 5px;
+}
+table{
+    margin: 0 auto;
+    width:500px;
+    height:250px;
+    border-collapse: collapse;
+    
+}
+td{
+    padding-left: 55PX;
+}
+
+th,tr:nth-child(even)
+{
+    background-color:greenyellow;
+    
+}
+th{
+    height: 40px;
+}
+

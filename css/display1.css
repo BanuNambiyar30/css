@@ -1,0 +1,30 @@
+ul li{
+ list-style: none;
+margin: 10px;
+ display: inline;
+ }
+ul{
+    text-align: right;
+    margin-top: -50px;
+    
+}
+body{
+    background-image: url('https://img.freepik.com/free-vector/school-classroom-interior-university-educational-concept-blackboard-table_1441-1694.jpg?w=2000');
+    background-size: cover;
+    
+}
+.ba{
+    margin-left: 470px;
+    margin-top: 250px;
+}
+button{
+    border-radius: 200px;
+    height: 30px;
+    width: 150px;
+    background-color: aqua;
+    margin-left: 65px;
+}
+
+p{
+margin-left: 45px;
+}

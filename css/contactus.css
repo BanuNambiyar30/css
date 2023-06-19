@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(22, 132, 175);
+}
+.div{
+    background-color: rgb(8, 8, 83);
+    border: 5px solid skyblue;
+    height:320px;
+    width: 500px;
+    color: skyblue;
+    margin: auto;
+    margin-top: 200px;
+    padding-left: 30px;
+    }
+.ba{
+    text-align: center;
+    color: white;
+}
+hr{
+    width: 400px;
+    border-color: skyblue;
+    margin-top: 10px;
+    }
+button{
+    height: 28px;
+    width:100px;
+    border-color: white;
+    background-color: rgb(8, 8, 83);
+    color: white;
+    margin-left: 170px;
+    margin-top: 10px;
+}

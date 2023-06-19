@@ -1,0 +1,23 @@
+body{
+    background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/storyblocks-natural-vintage-colorful-pebbles-background-gradient-color_HIye5udJf_SB_PM.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+
+hr{
+    width: 150px;
+    border-color: aliceblue;
+    border-radius: 5px;
+}
+div{
+    margin-top: 250px;
+}
